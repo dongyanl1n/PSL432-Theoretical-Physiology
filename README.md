@@ -1,2 +1,3 @@
 # PSL432-Theoretical-Physiology
-some sensorymotor shit
+model-free: DDPG (Q1)
+model-based:LPG (Q2)
